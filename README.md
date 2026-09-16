@@ -36,7 +36,7 @@ Exploring Software Engineering <br> at the University of Brasília (UnB)
 <div align="center">
   <h3>💻 Languages, Tools and Frameworks</h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,python,java,html,css,mysql,mongodb,nodejs,react,docker,figma,git,github,latex,swift,apple&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,python,java,html,css,mysql,mongodb,nodejs,react,docker,figma,git,github,latex,swift,apple,django,gitlab&perline=9"/>
   </div>
 </div>
 
@@ -44,7 +44,8 @@ Exploring Software Engineering <br> at the University of Brasília (UnB)
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img alt="Percent of used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Barboza&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <!-- <img alt="Percent of used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Barboza&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/> -->
+  <img alt="Percent of used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Diogo-Barboza&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Diogo-Barboza/Diogo-Barboza/output/github-contribution-grid-snake-dark.svg" />
 </div>
